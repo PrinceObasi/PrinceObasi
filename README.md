@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Prince ⭐  
 🎓 Computer Science Student @ Texas Tech University  
-🧠 Aspiring Software Engineer | AI & Machine Learning Enthusiast  
+🧠 Aspiring Software Engineer | Full Stack Developer 
 📅 Graduating: May 2026  
 🌎 Based in Texas, open to opportunities globally  
 
