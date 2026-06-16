@@ -13,5 +13,5 @@
 
 ### 📫 Let’s Connect
 
-- 📧 Email: premekao@ttu.edu  
+- 📧 Email: dikachiobasi123@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/princeonyedikachi/)  
