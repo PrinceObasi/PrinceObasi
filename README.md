@@ -9,7 +9,6 @@
 ## 🛠️ Featured Projects
 
 - **[RaiderMatch](https://github.com/PrinceObasi/RaiderMatchTm)**: internship-matching platform for Texas Tech CS students. Weighted matching algorithm in PostgreSQL, Supabase Edge Functions that keep 140+ internships synced and AI-enriched, React + TypeScript frontend on Vercel.
-- **[LocalTrace](https://github.com/PrinceObasi/localtrace)**: storage monitoring and alerting for Macs running local AI models. Built at HackWesTX 2026.
 - **Every Breath Counts**: SwiftUI interactive experience built for Apple's Swift Student Challenge.
 
 ## 💻 Tech Stack
