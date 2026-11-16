@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Prince
 
-🎓 Computer Science @ Texas Tech University (Math minor) · Graduating May 2027  
+🎓 Computer Science @ Texas Tech University (Math minor) · Graduating Dec 2027  
 🚀 Founder of [RaiderMatch](https://github.com/PrinceObasi/RaiderMatchTm), internship matching for 100+ Texas Tech CS students  
 🧠 Full-stack engineer: React, TypeScript, Supabase, PostgreSQL  
 🤝 Former NSBE Membership Chair and ColorStack Professional Development Chair at Texas Tech  
